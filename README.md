@@ -8,8 +8,8 @@ Add the following repository to your maven pom.xml file:
 ```
 <repositories>
     <repository>
-        <id>YOUR-PROJECT-NAME-mvn-repo</id>
-        <url>https://raw.github.com/YOUR-USERNAME/YOUR-PROJECT-NAME/mvn-repo/</url>
+        <id>driver-mvn-repo</id>
+        <url>https://raw.github.com/DRIVER-EU/maven-repo/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
