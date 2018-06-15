@@ -9,8 +9,8 @@ Add the following repository in your pom.xml
 ```
 <repositories>
     <repository>
-        <id>YOUR-PROJECT-NAME-mvn-repo</id>
-        <url>https://raw.github.com/YOUR-USERNAME/YOUR-PROJECT-NAME/mvn-repo/</url>
+        <id>driver-mvn-repo</id>
+        <url>https://raw.github.com/DRIVER-EU/maven-repo/master/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
