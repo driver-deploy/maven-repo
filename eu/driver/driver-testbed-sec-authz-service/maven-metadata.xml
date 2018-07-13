@@ -4,8 +4,8 @@
   <artifactId>driver-testbed-sec-authz-service</artifactId>
   <versioning>
     <versions>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180713143303</lastUpdated>
+    <lastUpdated>20180713143627</lastUpdated>
   </versioning>
 </metadata>
