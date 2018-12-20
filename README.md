@@ -4,7 +4,7 @@ This GitHub Repository is a Maven Repository containing artifacts of DRIVER+ Jav
 
 # Using the Artifacts
 
-Add the following repository in your pom.xml
+Add the following repository in your pom.xml:
 
 ```
 <repositories>
